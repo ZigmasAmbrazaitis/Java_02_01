@@ -11,6 +11,5 @@ public class Main {
         String vardas = sc.nextLine();
         System.out.println("Jusu vardas: " + vardas);
         System.out.println("Jusu vardas: " + vardas);
-        System.out.println("Jusu vardas: " + vardas);
     }
 }
