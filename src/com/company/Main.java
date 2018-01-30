@@ -10,5 +10,9 @@ public class Main {
         System.out.println("Iveskite savo varda: ");
         String vardas = sc.nextLine();
         System.out.println("Jusu vardas: " + vardas);
+        System.out.println("Jusu vardas: " + vardas);
+        System.out.println("Jusu vardas: " + vardas);
+        System.out.println("Jusu vardas: " + vardas);
+        System.out.println("Jusu vardas: " + vardas);
     }
 }
